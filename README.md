@@ -1,2 +1,2 @@
 # Jenkins hello world
-echo hello
+# echo hello
